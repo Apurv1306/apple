@@ -1,0 +1,10 @@
+kivy
+kivymd
+opencv-python
+numpy
+requests
+pandas
+fpdf
+pygame
+edge-tts
+apscheduler
